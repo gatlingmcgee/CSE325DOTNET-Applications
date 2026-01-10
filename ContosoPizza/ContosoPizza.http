@@ -14,7 +14,6 @@ Accept: application/json
 ###
 POST {{ContosoPizza_HostAddress}}/pizza/
 Content-Type: application/json
-
 {
     "name": "Hawaii",
     "isGlutenFree": false
@@ -23,7 +22,6 @@ Content-Type: application/json
 ###
 PUT {{ContosoPizza_HostAddress}}/pizza/3
 Content-Type: application/json
-
 {
     "name": "Hawaiian",
     "isGlutenFree": false
@@ -31,5 +29,4 @@ Content-Type: application/json
 
 ###
 DELETE {{ContosoPizza_HostAddress}}/pizza/3
-
 Accept: application/json
