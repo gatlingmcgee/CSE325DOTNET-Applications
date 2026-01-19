@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tb2AP39IPJM=",
+  "success": true,
+  "projectFilePath": "C:\\BYU\\BYU_WINTER_2026_TERM_1\\CSE325\\CSE325DOTNET-Applications\\blazor\\blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rzman\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.1\\microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
